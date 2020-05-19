@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\ENGLISH_TO_BRAILLE\ENGLISH_TO_BRAILLE\bin\ENGLISH_TO_BRAILLE.dll
+C:\Users\lenovo\Desktop\ENGLISH_TO_BRAILLE\ENGLISH_TO_BRAILLE\bin\ENGLISH_TO_BRAILLE.pdb
+C:\Users\lenovo\Desktop\ENGLISH_TO_BRAILLE\ENGLISH_TO_BRAILLE\obj\Debug\ENGLISH_TO_BRAILLE.dll
+C:\Users\lenovo\Desktop\ENGLISH_TO_BRAILLE\ENGLISH_TO_BRAILLE\obj\Debug\ENGLISH_TO_BRAILLE.pdb
+C:\Users\lenovo\Desktop\ENGLISH_TO_BRAILLE\ENGLISH_TO_BRAILLE\obj\Debug\ENGLISH_TO_BRAILLE.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\atmege\ENGLISH_TO_BRAILLE\ENGLISH_TO_BRAILLE\bin\ENGLISH_TO_BRAILLE.dll
+C:\Users\lenovo\Desktop\atmege\ENGLISH_TO_BRAILLE\ENGLISH_TO_BRAILLE\bin\ENGLISH_TO_BRAILLE.pdb
+C:\Users\lenovo\Desktop\atmege\ENGLISH_TO_BRAILLE\ENGLISH_TO_BRAILLE\obj\Debug\ENGLISH_TO_BRAILLE.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\atmege\ENGLISH_TO_BRAILLE\ENGLISH_TO_BRAILLE\obj\Debug\ENGLISH_TO_BRAILLE.dll
+C:\Users\lenovo\Desktop\atmege\ENGLISH_TO_BRAILLE\ENGLISH_TO_BRAILLE\obj\Debug\ENGLISH_TO_BRAILLE.pdb
